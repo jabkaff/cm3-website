@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: cranky joints
 ---
 
 This is the home page of Rahul's CM3 website.
