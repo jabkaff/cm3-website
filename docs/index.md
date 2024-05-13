@@ -20,12 +20,12 @@ In this new para we create a numbered list using numbers.
 1. first item
 2. second item
 
-This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
+This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more. go to [ChatGPT](chat.openai.com).
 
 You can write code by using triple-ticks:
 
 ```python
-def add_two(x, y):
+def add_two(33, 40):
   return x + y
 ```
 
